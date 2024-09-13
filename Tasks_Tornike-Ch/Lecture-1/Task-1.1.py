@@ -1,5 +1,5 @@
-Name = input("შეიყვანე სახელი: ")
-Surname = input("შეიყვანე გვარი: ")
-Age = input("შეიყვანე ასაკი: ")
+name = input("შეიყვანე სახელი: ")
+surname = input("შეიყვანე გვარი: ")
+age = input("შეიყვანე ასაკი: ")
 
-print(f"გამარჯობა, {Name} {Surname}, თქვენ ხართ {Age} წლის.")
+print(f"გამარჯობა, {name} {surname}, თქვენ ხართ {age} წლის.")
